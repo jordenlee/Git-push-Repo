@@ -1,0 +1,10 @@
+# Today's commands in the DH box for the first time
+
+
+    1  $ wget https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
+    2  wget https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
+    3  $ wget https://github.com/jgm/pandoc/releases/download/1.19.2.1/pandoc-1.19.2.1-1-amd64.deb
+    4  sudo dpkg -i pandoc-1.19.2.1-1-amd64.deb
+    5  pandoc -v
+    6  history
+    7  history > dhbox-work-today.md
